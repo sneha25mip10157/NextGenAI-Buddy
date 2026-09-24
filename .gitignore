@@ -1,0 +1,16 @@
+# Logs and Runtime
+*.log
+__pycache__/
+*.pyc
+
+# Dependencies & Build
+node_modules/
+dist/
+.DS_Store
+
+# Environment & Secrets
+.env
+.env.local
+
+# SQLite Local DB
+*.db-journal
